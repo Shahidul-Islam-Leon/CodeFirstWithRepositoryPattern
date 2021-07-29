@@ -100,6 +100,14 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="App_Start\RouteConfig.cs" />
+    <Compile Include="Migrations\202107290939580_initialCreate.cs" />
+    <Compile Include="Migrations\202107290939580_initialCreate.Designer.cs">
+      <DependentUpon>202107290939580_initialCreate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202107290942256_Anothertest.cs" />
+    <Compile Include="Migrations\202107290942256_Anothertest.Designer.cs">
+      <DependentUpon>202107290942256_Anothertest.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Repositories\CategoryRepository.cs" />
     <Compile Include="Controllers\CategoryController.cs" />
@@ -130,6 +138,14 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Migrations\202107290939580_initialCreate.resx">
+      <DependentUpon>202107290939580_initialCreate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202107290942256_Anothertest.resx">
+      <DependentUpon>202107290942256_Anothertest.cs</DependentUpon>
+    </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

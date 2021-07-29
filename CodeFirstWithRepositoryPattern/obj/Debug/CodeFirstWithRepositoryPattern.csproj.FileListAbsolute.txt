@@ -74,3 +74,6 @@ C:\Users\SHAHI\source\repos\CodeFirstWithRepositoryPattern\CodeFirstWithReposito
 C:\Users\SHAHI\source\repos\CodeFirstWithRepositoryPattern\CodeFirstWithRepositoryPattern\obj\Debug\CodeFirstWithRepositoryPattern.csproj.CopyComplete
 C:\Users\SHAHI\source\repos\CodeFirstWithRepositoryPattern\CodeFirstWithRepositoryPattern\obj\Debug\CodeFirstWithRepositoryPattern.dll
 C:\Users\SHAHI\source\repos\CodeFirstWithRepositoryPattern\CodeFirstWithRepositoryPattern\obj\Debug\CodeFirstWithRepositoryPattern.pdb
+C:\Users\SHAHI\source\repos\CodeFirstWithRepositoryPattern\CodeFirstWithRepositoryPattern\obj\Debug\CodeFirstWithRepositoryPattern.Migrations.initialCreate.resources
+C:\Users\SHAHI\source\repos\CodeFirstWithRepositoryPattern\CodeFirstWithRepositoryPattern\obj\Debug\CodeFirstWithRepositoryPattern.csproj.GenerateResource.cache
+C:\Users\SHAHI\source\repos\CodeFirstWithRepositoryPattern\CodeFirstWithRepositoryPattern\obj\Debug\CodeFirstWithRepositoryPattern.Migrations.Anothertest.resources
